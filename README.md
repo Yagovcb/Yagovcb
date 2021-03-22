@@ -47,15 +47,6 @@
 [![Contact](https://img.shields.io/badge/yago.vcb@hotmail.com-FFFEEE?style=flat-square&logo=gmail&logoColor=red)](mailto:yago.vcb@hotmail.com)
 [![Twitter](https://img.shields.io/badge/@Yagovcb-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Yagovcb)
 [![Linkedin](https://img.shields.io/badge/Yago_do_Valle_Castelo_Branco-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yagovcb/)
-
-[comment]: <> ([![Stack Overflow]&#40;https://img.shields.io/badge/Himanshu_Sharma-393939?style=flat-square&logo=stack-overflow&logoColor=white&#41;]&#40;https://stackoverflow.com/users/11545939/himanshu-sharma&#41;)
-
-[comment]: <> ([![Dev]&#40;https://img.shields.io/badge/@rageremix-black?style=flat-square&logo=dev.to&logoColor=white&#41;]&#40;https://dev.to/rageremix&#41;)
-
-[comment]: <> ([![Medium]&#40;https://img.shields.io/badge/@rageremix-black?style=flat-square&logo=medium&logoColor=white&#41;]&#40;https://medium.com/@rageremix&#41;)
-
-[comment]: <> (<a href="https://stackexchange.com/users/15998609"><img src="https://stackexchange.com/users/flair/15998609.png?theme=dark" width="208" height="58" alt="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>)
-
 <!--
 **Yagovcb/Yagovcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
