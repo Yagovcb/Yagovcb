@@ -15,11 +15,11 @@
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
 
-![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-3300FF?style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-
+![SpringBoot](https://img.shields.io/badge/Spring-33CC00?style=flat-square&logo=spring&logoColor=ffffff)
 <h4><b><samp>Tools and Platform</samp></b></h4>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -27,7 +27,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-66CC33?style=flat-square&logo=Android-Studio&logoColor=ffffff)
-![Android Studio](https://img.shields.io/badge/IntelliJ-990099?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJ-990099?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 
 ##
 
