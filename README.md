@@ -1,34 +1,34 @@
-<p align="center"><samp><b> Hey there! 👋 </b></samp></p>
-<p align="center"><h1 align="center"><samp> I am Yago Castelo Branco</samp></h1></p>
+# Hi! i am Yago do Valle Castelo Branco :man_technologist:
 
-<p align="center"><h4 align="center"><samp> A Java Developer & A Flutter student </samp></h4></p>
-<br>
-<div>
-    - 🔭 <samp>I’m currently working on my Front End Skills</samp><br>
-    - 🌱 <samp>I’m currently learning Flutter</samp><br>
-    - 👯 <samp>I’m looking to collaborate on <b>Open Source Projects</b></samp><br>
-    - 💬 <samp>Ask me about Java</samp><br>
-    - 💬 <samp>Pronouns: He/His</samp><br>
-</div>
+
+### About me
+
+#### I am a Senior Software Developer and Software Architect student
+
+- My name is Yago, I am a software engineer and currently live in Brazil.
+- I work with development for at least 5 years, I have experience with many technologies but I stand out with Architecture student and Java.
 
 ##
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
 
-![Flutter](https://img.shields.io/badge/Flutter-3300FF?style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![SpringBoot](https://img.shields.io/badge/Spring-33CC00?style=flat-square&logo=spring&logoColor=ffffff)
 <h4><b><samp>Tools and Platform</samp></b></h4>
-
+![Flutter](https://img.shields.io/badge/Flutter-3300FF?style=flat-square&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-66CC33?style=flat-square&logo=Android-Studio&logoColor=ffffff)
 ![Intellij](https://img.shields.io/badge/IntelliJ-990099?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=white&color=9400D3)
+![MySQL](https://img.shields.io/badge/MySql-000000?style=flat&logo=mysql&logoColor=white&color=007ACC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&color=3300FF)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white&color=9400D3)
+![AWS](https://img.shields.io/badge/AWS-ffcb2c?style=flat&logo=Amazon&logoColor=white&color=ffcb2c)
 ##
 
 <details>
@@ -43,21 +43,10 @@
 
 ##
 <h4><b><samp>Connect with me:</samp></b></h4>
-
-[![Contact](https://img.shields.io/badge/yago.vcb@hotmail.com-FFFEEE?style=flat-square&logo=gmail&logoColor=red)](mailto:yago.vcb@hotmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Yagovcb)](https://github.com/Yagovcb)
+[![Gmail](https://img.shields.io/badge/yago.vcb@hotmail.com-FFFEEE?style=flat-square&logo=gmail&logoColor=red)](mailto:yago.vcb@hotmail.com)
 [![Twitter](https://img.shields.io/badge/@Yagovcb-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Yagovcb)
 [![Linkedin](https://img.shields.io/badge/Yago_do_Valle_Castelo_Branco-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yagovcb/)
-<!--
-**Yagovcb/Yagovcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Medium](https://img.shields.io/badge/@yagovcb-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yagovcb)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.glitch.me/badge?page_id=Yagovcb.Yagovcb)
