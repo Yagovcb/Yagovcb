@@ -16,7 +16,9 @@
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![SpringBoot](https://img.shields.io/badge/Spring-33CC00?style=flat-square&logo=spring&logoColor=ffffff)
+
 <h4><b><samp>Tools and Platform</samp></b></h4>
+
 ![Flutter](https://img.shields.io/badge/Flutter-3300FF?style=flat-square&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
@@ -29,24 +31,21 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&color=3300FF)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white&color=9400D3)
 ![AWS](https://img.shields.io/badge/AWS-ffcb2c?style=flat&logo=Amazon&logoColor=white&color=ffcb2c)
+
 ##
 
-<details>
-  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
-<br>
-<p align="center"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagovcb&count_private=true&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yagovcb&count_private=true&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
- </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagovcb&count_private=true&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yagovcb&count_private=true&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
 
-</details>
 
 ##
 <h4><b><samp>Connect with me:</samp></b></h4>
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Yagovcb)](https://github.com/Yagovcb)
 [![Gmail](https://img.shields.io/badge/yago.vcb@hotmail.com-FFFEEE?style=flat-square&logo=gmail&logoColor=red)](mailto:yago.vcb@hotmail.com)
 [![Twitter](https://img.shields.io/badge/@Yagovcb-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Yagovcb)
 [![Linkedin](https://img.shields.io/badge/Yago_do_Valle_Castelo_Branco-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yagovcb/)
 [![Medium](https://img.shields.io/badge/@yagovcb-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yagovcb)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Yagovcb.Yagovcb)
