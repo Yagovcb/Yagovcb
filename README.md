@@ -6,8 +6,8 @@
 #### I am a Senior Software Developer and Software Architect student
 
 - My name is Yago, I am a software engineer and currently live in Brazil.
-- I work with development for at least 5 years, I have experience with many technologies but I stand out with Architecture student and Java.
-
+- I have been working with development for almost 7 years, I have experience with various technologies and I have a postgraduate degree in Software Architecture
+- My main languages are Java and Flutter
 ##
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
