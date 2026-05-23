@@ -1,51 +1,178 @@
-# Hi! i am Yago do Valle Castelo Branco :man_technologist:
+<div align="center">
 
+# Yago do Valle Castelo Branco
 
-### About me
+### Senior Software Engineer • Software Architect • Founder at Fonder
 
-#### I am a Senior Software Developer and Software Architect student
+**I build digital operating systems for real operations.**  
+Software, architecture, product thinking and AI applied to the messy parts of business.
 
-- My name is Yago, I am a software engineer and currently live in Brazil.
-- I have been working with development for almost 7 years, I have experience with various technologies and I have a postgraduate degree in Software Architecture
-- My main languages are Java and Flutter
-##
+[![GitHub](https://img.shields.io/badge/GitHub-Yagovcb-181717?style=flat-square&logo=github)](https://github.com/Yagovcb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yago%20Castelo%20Branco-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagovcb/)
+[![Medium](https://img.shields.io/badge/Medium-@yagovcb-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yagovcb)
+[![Email](https://img.shields.io/badge/Email-yago.vcb%40hotmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yago.vcb@hotmail.com)
 
-<h4><b><samp>Frameworks and Languages</samp></b></h4>
+</div>
 
-![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![SpringBoot](https://img.shields.io/badge/Spring-33CC00?style=flat-square&logo=spring&logoColor=ffffff)
+---
 
-<h4><b><samp>Tools and Platform</samp></b></h4>
+## About me
 
-![Flutter](https://img.shields.io/badge/Flutter-3300FF?style=flat-square&logo=Flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-66CC33?style=flat-square&logo=Android-Studio&logoColor=ffffff)
-![Intellij](https://img.shields.io/badge/IntelliJ-990099?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=white&color=9400D3)
-![MySQL](https://img.shields.io/badge/MySql-000000?style=flat&logo=mysql&logoColor=white&color=007ACC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&color=3300FF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white&color=9400D3)
-![AWS](https://img.shields.io/badge/AWS-ffcb2c?style=flat&logo=Amazon&logoColor=white&color=ffcb2c)
+I am a **Senior Software Engineer**, **Software Architect** and **product builder** from Brazil.
 
-##
+I have been working with software development for **8+ years**, mainly with **Java, Spring Boot, Flutter and FlutterFlow**. Over time, my work evolved from building features and applications into designing **complete operational systems**: platforms, backoffices, workflows, internal tools, product engines and AI-assisted business infrastructure.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagovcb&count_private=true&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yagovcb&count_private=true&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
+Today, my main thesis is simple:
 
+> **Every important operation deserves its own system.**
 
-##
-<h4><b><samp>Connect with me:</samp></b></h4>
+That is the foundation behind **Fonder**, a product house focused on transforming specific business operations into proprietary digital systems.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Yagovcb)](https://github.com/Yagovcb)
-[![Gmail](https://img.shields.io/badge/yago.vcb@hotmail.com-FFFEEE?style=flat-square&logo=gmail&logoColor=red)](mailto:yago.vcb@hotmail.com)
-[![Twitter](https://img.shields.io/badge/@Yagovcb-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Yagovcb)
-[![Linkedin](https://img.shields.io/badge/Yago_do_Valle_Castelo_Branco-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yagovcb/)
-[![Medium](https://img.shields.io/badge/@yagovcb-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yagovcb)
+---
 
+## What I am building
 
-![](https://visitor-badge.glitch.me/badge?page_id=Yagovcb.Yagovcb)
+### Fonder
+
+**Fonder** is a product house built around one idea: operations should not depend only on spreadsheets, chats, improvisation and scattered tools.
+
+The goal is to design and build software that gives companies and professionals more control, clarity and execution power.
+
+Current focus areas:
+
+- **Operational systems for specific businesses**
+- **Internal backoffices and command centers**
+- **AI agents as operational infrastructure**
+- **Decision libraries and architectural governance**
+- **Products that turn process into software**
+
+---
+
+## Product ecosystem
+
+### Orbos
+
+A B2B operational management platform for small and medium teams.  
+The vision is to help companies organize workflows, people, execution, responsibilities and operational visibility in one system.
+
+### Organized
+
+A personal operating system for life, work and execution.  
+It is designed to organize routines, tasks, personal systems, life areas and recurring responsibilities.
+
+### RoutineOS
+
+A routine and tracking layer inside the Organized ecosystem.  
+The principle behind it: **a good routine does not break; it recalculates.**
+
+### KoreOS
+
+An ecosystem of premium AI agents focused on execution, reasoning and professional leverage.
+
+### Fonder Backoffice
+
+The internal operating system of the product house.  
+It is being designed as a modular backend with strong boundaries, decision records, product modules, client workflows, knowledge, memory and AI agent orchestration.
+
+### PIO Trainings
+
+A training initiative focused on **practical AI for real professionals** — not just developers.  
+The goal is to help lawyers, doctors, engineers, accountants, founders, product people and other professionals use AI inside their daily work with clarity, safety and productivity.
+
+### Other product lines and experiments
+
+- **Creator Center / CreatorOS** — systems for creators and content operations
+- **ClinicOS** — operational systems for clinics and health businesses
+- **CulinaOS** — product and operation systems for food businesses
+- **DesignOS** — systems for visual, creative and design operations
+
+---
+
+## How I think about software
+
+I do not see software only as code.
+
+I see software as a way to transform chaos into structure:
+
+- unclear processes into visible workflows
+- repeated tasks into systems
+- scattered decisions into institutional memory
+- fragile operations into scalable products
+- human creativity into AI-amplified execution
+
+My work usually lives at the intersection of:
+
+- **Software Architecture**
+- **Product Strategy**
+- **Operational Design**
+- **AI Applied to Workflows**
+- **Backend Engineering**
+- **Mobile and Web Product Development**
+
+---
+
+## Tech stack
+
+### Backend and Architecture
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Modulith](https://img.shields.io/badge/Spring%20Modulith-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Mobile, Web and Product Building
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-5F2EEA?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### AI, Tools and Workflow
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Current engineering direction
+
+I am especially interested in:
+
+- modular monoliths with clear domain boundaries
+- Spring Boot and Spring Modulith architectures
+- internal platforms and backoffice systems
+- AI agents connected to real business workflows
+- software as operational infrastructure
+- productized processes
+- personal and business operating systems
+- fast product validation with strong architectural thinking
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yagovcb&count_private=true&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagovcb&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## A final note
+
+I like building things that make operations less fragile and people more powerful.
+
+The future I am building toward is one where every serious professional and every serious business has its own operational system — designed around the way they actually think, decide and execute.
+
